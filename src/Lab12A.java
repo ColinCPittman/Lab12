@@ -1,4 +1,3 @@
-import java.util.InputMismatchException;
 import java.util.Scanner;
 class Lab12A {
     public static void main(String[] args) {
